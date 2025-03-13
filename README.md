@@ -2,7 +2,7 @@
 
 🎯 I'm eager to work on modern web applications and grow as a developer. My expertise includes **Next.js**, **TypeScript**, and **React**, with a focus on creating responsive interfaces.
 
-## 🤝 **Connect with Me:**
+## -s **Connect with Me:**
 - [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/panchakr13/)
 - [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/panchakr13)
 
