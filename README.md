@@ -4,7 +4,7 @@
 
 ## 🤝 **Connect with Me:**
 - [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/panchakr13/)
-- 📩 [Telegram](https://t.me/panchakr13)
+- [<img src="[https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/panchakr13)
 
 ---
 
