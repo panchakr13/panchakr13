@@ -1,4 +1,4 @@
-  # 👋 Hi, I'm a Front End Developer!
+  # 👋 Hi,  I'm a Front End Developer!
 
 🎯 I'm eager to work on modern web applications and grow as a developer. My expertise includes **Next.js**, **TypeScript**, and **React**, with a focus on creating responsive interfaces.
 
