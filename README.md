@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ **My Skills:**
-- **Frontend:** TypeScript, <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+- **Frontend:** TypeScript, <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
 &nbsp;, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit, React Native), Vue (Pinie).
 - **Backend:** Node.js, Express.js, REST API, Axios.
 - **Tools:** Git, MongoDB, Vite, Eslint, Canva, Figma.
@@ -23,12 +23,12 @@
 
 ### 📱 **Next.js + DummyJson API**  
 A dynamic website for browsing user and recipe data with authentication, filtering, and interactive user profiles. Built with Next.js, TypeScript, Fetch, TailwindCSS.
-- 🎥 [DEMO](dummyjson-users-recipes-nextjs-cfac.vercel.app)
+- 🎥 [DEMO](https://dummyjson-users-recipes-nextjs-cfac.vercel.app/)
 - 💻 [CODE](https://github.com/panchakr13/dummyjson-users-recipes-nextjs)
 
 
 ### 📱 **React.js + Redux + DummyJson API**  
 A platform for viewing and searching users and recipes with authentication, pagination, and detailed profile pages. Built with React, TypeScript, Redux, Axios.
-- 🎥 [DEMO](dummyjson-users-recipes-react.vercel.app)
+- 🎥 [DEMO](https://dummyjson-users-recipes-react.vercel.app)
 - 💻 [CODE](https://github.com/panchakr13/dummyjson-users-recipes-react)
 
