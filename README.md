@@ -8,9 +8,13 @@
 
 ---
 
-## 🛠️ **My Skills:**
-- **Frontend:** TypeScript, <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]
-&nbsp;, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit, React Native), Vue (Pinie).
+## 🛠️ **Skills:**
+- **Frontend:**
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+&nbsp;
+ <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;
+, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit, React Native), Vue (Pinie).
 - **Backend:** Node.js, Express.js, REST API, Axios.
 - **Tools:** Git, MongoDB, Vite, Eslint, Canva, Figma.
 - **Methodologies:** SDLC, Agile (Scrum, Kanban), Waterfall.
@@ -19,7 +23,7 @@
 
 ---
 
-## 📂 **My Projects:**
+## 📂 **Projects:**
 
 ### 📱 **Next.js + DummyJson API**  
 A dynamic website for browsing user and recipe data with authentication, filtering, and interactive user profiles. Built with Next.js, TypeScript, Fetch, TailwindCSS.
